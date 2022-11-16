@@ -1,16 +1,15 @@
-# smart_room_ui
+# Smart Home Device UI Design
 
-A new Flutter project.
+A smart home UI design developed using flutter x dart. 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```bash
+flutter pub get
+```
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Results
+<p>
+<img src="https://raw.githubusercontent.com/Vishwa-Karthik/Smart-Home-UI/master/assets/images/img1.png" width="200' height="400" />
+</p>
